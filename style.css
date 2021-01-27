@@ -1,0 +1,43 @@
+body{
+    padding: 100px;
+}
+.text-center{
+    padding-bottom: 50px;
+}
+.text-center span{
+   color: #FF589B;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+   
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.login{
+    padding: 50px;
+}
+#transaction-area{
+    display: none;
+}
+.deposit{
+    background-color: blueviolet;
+}
+.withdraw{
+    background-color: hotpink;
+}
+.balance{
+    background-color: cadetblue;
+}
+.status{
+    margin: 0 20px;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
